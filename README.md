@@ -17,5 +17,3 @@
 
 - Arduino Seven Segment library used
   - https://github.com/supercrab/arduino-seven-segment
-
-## Wiring Diagram
